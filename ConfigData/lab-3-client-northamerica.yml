@@ -1,14 +1,2 @@
 ---
 lucky-word: Serendipity
-mongodb:
-  url: localhost:27017/PCN
-redis:
-  enabled: false
-mongodb:
-  password: f7R0mnULiVSDSm1+HglSR67Vq9qsOj9p5gSo3Hi/IU9L//4lRD11+qeeq0+VGhHUrg0crCRafcfbcvlzUGl1tESTrUaXFoGecJchEg1d6q6ks/y89bUvdin69WoNsQltHO9EdVYeWoVsmo3yyUHIg1pd67pQ8fUgtTLnnWNDuRQ=
-secret:
-  key: /Users/z001ytr/crypto/keys/pcndev_20160412124317
-mongodb:
-  db: PCN
-mongodb :
-  user: pcndev
